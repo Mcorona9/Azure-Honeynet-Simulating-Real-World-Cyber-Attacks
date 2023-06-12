@@ -5,4 +5,4 @@
 </p>
 
   <p align="center">
-<img src="https://i.imgur.com/FHpdXtI.png" height="80%" width="80%" alt="Sentinel logo"/>
+<img src="https://i.imgur.com/hL3VXgO.png" height="80%" width="80%" alt="Sentinel logo"/>
