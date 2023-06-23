@@ -1,7 +1,7 @@
   <p align="center">
 
 
-# Azure-Honeynet-Simulating-Real-World-Cyber-Attacks
+# Azure-Honeynet & SOC (Live Traffic)
 </p>
 
   <p align="center">
