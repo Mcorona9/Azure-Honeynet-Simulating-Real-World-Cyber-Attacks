@@ -13,8 +13,6 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 ## Objective  
 "After creating Windows and Linux virtual machines, I intentionally configured the firewall and network gateway settings to allow unrestricted traffic from all ports. Furthermore, I disabled all features in Microsoft Defender Firewall. As a result, I have intentionally created a vulnerable internet-facing environment designed to attract potential attackers
 
-
-
 ## Technologies, Regulations, and Azure Components Employed:
 - Azure Virtual Network (VNet)
 - Azure Network Security Group (NSG)
@@ -31,5 +29,6 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 ## 
 <img src="https://i.imgur.com/LUAvrtd.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+##
 
 <img src="https://i.imgur.com/owwop2p.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
