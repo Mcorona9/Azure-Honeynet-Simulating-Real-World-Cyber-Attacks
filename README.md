@@ -27,8 +27,17 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 - PowerShell for Automation and Configuration Management
 
 ## 
-<img src="https://i.imgur.com/LUAvrtd.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+  <p align="center">
+<img src="https://i.imgur.com/LUAvrtd.png" height=50%" width="50%" alt="Disk Sanitization Steps"/>
 
 ##
+  <p align="center">
+<img src="https://i.imgur.com/owwop2p.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/owwop2p.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
+
+## Investigating Bruteforce attacks 
+<p align="center">
+<img src="https://i.imgur.com/y3clq1F.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+
+
