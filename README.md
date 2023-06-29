@@ -25,6 +25,8 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 - Windows Remote Desktop for Remote Access
 - Command Line Interface (CLI) for System Management
 - PowerShell for Automation and Configuration Management
+- NIST SP 800-53 Revision 4 for Security Controls
+- NIST SP 800-61 Revision 2 for Incident Handling Guidance
 
 ## 
   <p align="center">
@@ -60,6 +62,16 @@ This dynamic world map provides a comprehensive visualization of the relentless 
    <p align="center">
 <img src="https://i.imgur.com/CZlc8sd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
-##     
+## Analysis & Incident Assessment 
 
+   <p align="center">
+During the 24-hour duration of running the vulnerable environment, I evaluated multiple incidents. For each incident, I meticulously scrutinized details concerning the entities behind these attacks, including their IP addresses, employed tactics and techniques, the type of attack executed, and the timeline of each occurrence. Additionally, I conducted in-depth investigations into the IP addresses of these entities, thoroughly examining any associated alerts to ascertain whether each incident constituted a true positive or a false positive.
 
+ <p align="center">
+ <img src="https://i.imgur.com/udWy7sk.png" height="90%" width="90%" alt="Disk Sanitization Steps"/> 
+
+  <p align="center">
+ <img src="https://i.imgur.com/FA2Akqm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+
+ <p align="center">
+ <img src="https://i.imgur.com/ptdb21g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
