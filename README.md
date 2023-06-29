@@ -35,9 +35,31 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 <img src="https://i.imgur.com/owwop2p.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
-## Investigating Bruteforce attacks 
+## Attack Maps Before Hardening/ Security Controls
 <p align="center">
-<img src="https://i.imgur.com/y3clq1F.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ <b> This attack map highlights the repercussions of leaving the Network Security Group (NSG) exposed, enabling unrestricted passage of malicious traffic. This visualization emphasizes the significance of enforcing effective security measures, such as imposing restrictions on NSG rules, to thwart unauthorized access and mitigate potential threats.
 
+##
+   <p align="center">
+<img src="https://i.imgur.com/j0Ih9Qk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p align="center">
+     The attack map reveals a multitude of syslog authentication failures encountered by the Linux server I implemented, signaling unauthorized access attempts originating externally. This underscores the significance of fortifying Linux servers with robust authentication mechanisms and vigilantly monitoring system logs to detect indicators of intrusion attempts, serving as a pertinent reminder of their importance.
+ ##
+   <p align="center">
+<img src="https://i.imgur.com/ApgwnXn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+ <p align="center">
+The attack map presents a vivid display of numerous RDP and SMB failures, highlighting the continuous endeavors of potential attackers to exploit these protocols. This visualization underscores the imperative of safeguarding remote access and file sharing services to shield against unauthorized entry and mitigate potential cyber threats
+ ##
+   <p align="center">
+<img src="https://i.imgur.com/HsYV1z2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+
+   <p align="center">
+This dynamic world map provides a comprehensive visualization of the relentless attacks directed towards the MSSQL Server across various geographical locations
+##
+   <p align="center">
+<img src="https://i.imgur.com/CZlc8sd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+##     
 
 
