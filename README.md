@@ -79,25 +79,30 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
   ## 
   Metrics Before Hardening / Security Controls
 
- 
-   <p align="center">
+ <div style="display: flex;">
+  <div style="flex: 1;">
   
   | Metric                          |   Count
-| ------------------------        |   -----
-| SecurityEvent                   |   27052
-| Syslog                          |   7003
-| SecurityAlert                   |   9
-| SecurityIncident                |   265
-| AzureNetworkAnalytics_CL        |   689
-
-
-
-<p align="center">
- 
+  | ------------------------        |   -----
+  | SecurityEvent                   |   27052
+  | Syslog                          |   7003
+  | SecurityAlert                   |   9
+  | SecurityIncident                |   265
+  | AzureNetworkAnalytics_CL        |   689
+  
+  </div>
+  
+  <div style="flex: 1;">
+  
   | Metric                          |   Count
-| ------------------------        |   -----
-| SecurityEvent                   |   11490
-| Syslog                          |   30
-| SecurityAlert                   |   0
-| SecurityIncident                |   13
-| AzureNetworkAnalytics_CL        |   11
+  | ------------------------        |   -----
+  | SecurityEvent                   |   11490
+  | Syslog                          |   30
+  | SecurityAlert                   |   0
+  | SecurityIncident                |   13
+  | AzureNetworkAnalytics_CL        |   11
+  
+  </div>
+</div>
+  
+
