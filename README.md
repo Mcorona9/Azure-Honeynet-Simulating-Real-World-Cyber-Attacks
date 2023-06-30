@@ -75,3 +75,29 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
 
  <p align="center">
  <img src="https://i.imgur.com/ptdb21g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+
+  ## 
+  Metrics Before Hardening / Security Controls
+
+ 
+   <p align="center">
+  
+  | Metric                          |   Count
+| ------------------------        |   -----
+| SecurityEvent                   |   27052
+| Syslog                          |   7003
+| SecurityAlert                   |   9
+| SecurityIncident                |   265
+| AzureNetworkAnalytics_CL        |   689
+
+
+
+<p align="center">
+ 
+  | Metric                          |   Count
+| ------------------------        |   -----
+| SecurityEvent                   |   11490
+| Syslog                          |   30
+| SecurityAlert                   |   0
+| SecurityIncident                |   13
+| AzureNetworkAnalytics_CL        |   11
