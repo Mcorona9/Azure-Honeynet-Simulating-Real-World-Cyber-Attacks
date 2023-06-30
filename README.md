@@ -93,7 +93,10 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
   </div>
   
   <div style="flex: 1;">
-  
+
+  ## 
+  Metrics After Hardening / Security Controls
+
   | Metric                          |   Count
   | ------------------------        |   -----
   | SecurityEvent                   |   11490
@@ -101,6 +104,10 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
   | SecurityAlert                   |   0
   | SecurityIncident                |   13
   | AzureNetworkAnalytics_CL        |   11
+
+  ##
+  <p align="center">
+ <img src="https://i.imgur.com/7yTij2j.png" height="90%" width="90%" alt="Disk Sanitization Steps"/> 
   
   </div>
 </div>
