@@ -5,7 +5,7 @@
 </p>
 
   <p align="center">
-<img src="https://i.imgur.com/JZRjPfT.png" height="80%" width="80%" alt="Sentinel logo"/>
+<img src="https://i.imgur.com/JZRjPfT.png" height="85%" width="85%" alt="Sentinel logo"/>
 
 ## Introduction
 My objective for this project is to create a customized honeynet on Microsoft Azure. The honeynet will be strategically designed to entice attackers, allowing for comprehensive logging and monitoring of malicious traffic. Additionally, I will implement incident response protocols and robust hardening measures to ensure the utmost security of the environment."
@@ -76,11 +76,12 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
  <p align="center">
  <img src="https://i.imgur.com/ptdb21g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 
-  ## 
-  Metrics Before Hardening / Security Controls
+  ## Metrics Before Hardening / Security Controls
 
  <div style="display: flex;">
   <div style="flex: 1;">
+
+ The following table shows the metrics we measured in our insecure environment for 24 hours: Start Time:2023-06-19 3:41 Stop time 2023-06-20 3:41
   
   | Metric                          |   Count
   | ------------------------        |   -----
@@ -94,8 +95,10 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
   
   <div style="flex: 1;">
 
-  ## 
-  Metrics After Hardening / Security Controls
+  ## Metrics After Hardening / Security Controls
+ 
+ The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls: Start Time:2023-06-20 5:27 Stop time:2023-06-21 5:27 
+
 
   | Metric                          |   Count
   | ------------------------        |   -----
