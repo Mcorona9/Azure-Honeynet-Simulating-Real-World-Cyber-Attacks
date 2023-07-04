@@ -97,7 +97,7 @@ During the 24-hour duration of running the vulnerable environment, I evaluated m
 
   ## Metrics After Hardening / Security Controls
  
- The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls: Start Time:2023-06-20 5:27 Stop time:2023-06-21 5:27 
+ The following table shows the metrics we measured in our environment for another 24 hours,after applied security controls: Start Time:2023-06-20 5:27 Stop time:2023-06-21 5:27 
 
 
   | Metric                          |   Count
