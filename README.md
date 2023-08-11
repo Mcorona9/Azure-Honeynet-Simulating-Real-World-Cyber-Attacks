@@ -30,7 +30,7 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 
 ## 
   <p align="center">
-<img src="https://i.imgur.com/LUAvrtd.png" height=50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x3vpnTd.png" height=50%" width="50%" alt="Disk Sanitization Steps"/>
 
 ##
   <p align="center">
