@@ -28,7 +28,7 @@ My objective for this project is to create a customized honeynet on Microsoft Az
 - NIST SP 800-53 Revision 4 for Security Controls
 - NIST SP 800-61 Revision 2 for Incident Handling Guidance
 
- 
+ ##
   <p align="center">
 <img src="https://i.imgur.com/x3vpnTd.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
